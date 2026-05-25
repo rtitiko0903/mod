@@ -1,0 +1,36 @@
+.button1 {
+    color: #ffffff;
+    background-color: #5025fd;
+    border-radius: 10px;
+    border: 1px solid #5025fd;
+    padding: 10px 50px;
+    font-size: 50px;
+    font-weight: 700;
+}
+
+.button1:hover {
+    background-color: #ffffff;
+    color: #5025fd;
+    transition: 0.4s;
+    cursor: pointer;
+}
+
+
+
+
+.button2 {
+    color: #5025fd;
+    background-color: #ffffff;
+    border-radius: 10px;
+    border: 1px solid #5025fd;
+    padding: 10px 50px;
+    font-size: 50px;
+    font-weight: 700;
+}
+
+.button2:hover {
+    background-color: #ababab;
+    color: #5025fd;
+    transition: 0.4s;
+    cursor: pointer;
+}
